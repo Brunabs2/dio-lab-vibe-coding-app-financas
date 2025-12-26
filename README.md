@@ -1,4 +1,3 @@
-
 💸 App de Organização de Finanças Pessoais com Vibe Coding
 Este repositório foi desenvolvido para o desafio de projeto da DIO, onde o foco é aplicar o jeito Vibe de programar, utilizando IAs generativas como parceiras criativas para transformar ideias em conceitos reais.
 
